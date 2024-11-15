@@ -1,3 +1,7 @@
 *
 !BITRIX
 !BITRIX/*
+!__main__
+!__main__/*
+!__main__/Cache/*
+!__main__/Templates/*
